@@ -1,7 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://yjozen.github.io/myHugoSite/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
 publishDir = "docs"
 
 
+[params]
+  author = "Your Name"
+  description = "A description of your site"
