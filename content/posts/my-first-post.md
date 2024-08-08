@@ -7,3 +7,6 @@ draft = true
 テスト
 
 This is my first post on my new Hugo site with the Ananke theme!
+
+
+[Read my second post](./second-post/my-second-post.md)
